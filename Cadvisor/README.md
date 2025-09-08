@@ -1,2 +1,2 @@
-use advisor for container monitoring.
+use Cadvisor for container monitoring.
 
